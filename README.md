@@ -1,1 +1,1 @@
-# google-colab-test
+針對許多有關 Python 主題的研究的測試程式
